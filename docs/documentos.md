@@ -37,7 +37,7 @@ Esta es la forma más rápida y sencilla de ejecutar todo el ecosistema.
 
 1.  **Clonar el Repositorio**
     ```bash
-    git clone https://github.com/mechmind-dwv/-ftrt-cambrian-correlation.git
+    git clone https://github.com/mechmind-dwv/ftrt-cambrian-correlation.git
     cd ftrt-cambrian-correlation
     ```
 
